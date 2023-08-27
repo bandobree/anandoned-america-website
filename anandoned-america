@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Your Abandoned Places</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f0f0f0;
+      color: #333;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background-color: #33415c;
+      color: #fff;
+      text-align: center;
+      padding: 1rem 0;
+    }
+    h1 {
+      margin: 0;
+    }
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 2rem;
+    }
+    .image {
+      margin-bottom: 1rem;
+    }
+    footer {
+      text-align: center;
+      padding: 1rem 0;
+      background-color: #33415c;
+      color: #fff;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Your Abandoned Places</h1>
+    <p>Capturing the beauty of forgotten spaces.</p>
+  </header>
+  <div class="container">
+    <h2>Explore the Lost Beauty</h2>
+    <p>Welcome to my personal webpage showcasing my photography of abandoned buildings and lost places. Through my lens, I aim to capture the haunting allure of these forgotten spaces.</p>
+    
+    <div class="image">
+      <img src="your_image_url_1.jpg" alt="Abandoned Building 1">
+    </div>
+    
+    <div class="image">
+      <img src="your_image_url_2.jpg" alt="Abandoned Building 2">
+    </div>
+    
+    <!-- Add more images as needed -->
+    
+  </div>
+  <footer>
+    <p>Contact me: your@email.com</p>
+  </footer>
+</body>
+</html>
